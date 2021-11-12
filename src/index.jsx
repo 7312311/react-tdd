@@ -2,7 +2,7 @@ import ReactDOM from "react-dom";
 import React from "react";
 
 function App() {
-  const name = "TaeHee";
+  const name = "Yeah";
 
   return <h1>Hello {name}</h1>;
 }
